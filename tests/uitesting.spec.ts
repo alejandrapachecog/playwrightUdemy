@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-//git
+//git cambios ale
 test('test', async ({ page }) => {
     await page.goto('http://uitestingplayground.com/');
     //await page.getByText('Aristotle').click();//locator
